@@ -1,7 +1,3 @@
-# Auf englisch umschreiben
-# Github Repo erstellen (öffentlich)
-# Kleine Doc
-
 import tkinter as tk
 
 def konfigurieren():
